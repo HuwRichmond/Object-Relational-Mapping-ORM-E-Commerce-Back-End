@@ -1,12 +1,10 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-## Your Task
+## About the Application
 
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
+Application was made based on the following description "Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database."
 
-Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
+This application is not deployed, so instead there is a link to a walkthrough video that demonstrates its functionality included with the repository. A link to the video recording on Google Drive is included below on the Readme and the repository also contains the recording in the "Assets" folder.
 
 ## User Story
 
@@ -30,4 +28,13 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
+
 ```
+
+## Other Information
+
+Github URL: https://github.com/HuwRichmond/Object-Relational-Mapping-ORM-E-Commerce-Back-End
+
+Walkthrough Video URL:
+
+Created by Huw Richmond
