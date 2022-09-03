@@ -39,7 +39,7 @@ router.get('/:id', (req, res) => {
   })
   .then(TagData => {
     if (!TagData) {
-      res.status(404).json({ message: 'No Tag found with this id' });
+      res.status(404).json({ message: 'Tag not found' });
       return;
     }
     res.json(TagData);
@@ -78,7 +78,7 @@ router.put('/:id', (req, res) => {
   )
   .then(TagData => {
     if (!TagData) {
-        res.status(404).json({ message: 'No Tag found with this id' });
+        res.status(404).json({ message: 'Tag not found' });
         return;
     }
     res.json(TagData);
@@ -98,7 +98,7 @@ router.delete('/:id', (req, res) => {
   })
   .then(TagData => {
     if (!TagData) {
-        res.status(404).json({ message: 'No Tag found with this id' });
+        res.status(404).json({ message: 'Tag not found' });
         return;
     }
     res.json(TagData);
