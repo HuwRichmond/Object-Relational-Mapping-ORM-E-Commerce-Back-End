@@ -4,7 +4,7 @@
 
 Application was made based on the following description "Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database."
 
-The application interacts with MySQL using sequelizer. It is designed to simulate how a database can be searched by items and different attributes and how items can be added, deleted and have relationships to other items in the batabase. This functionality is demonstrated in the walkthrough video.
+The application interacts with MySQL using sequelizer. It is designed to simulate how a database can be searched by items and different attributes and how items can be added, deleted and have relationships to other items in the batabase. This functionality is demonstrated in the walkthrough video using Insomnia.
 
 This application is not deployed, so instead there is a link to a walkthrough video that demonstrates its functionality included with the repository. A link to the video recording on Google Drive is included below on the Readme and the repository also contains the recording in the "Assets" folder.
 
@@ -37,6 +37,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Github URL: https://github.com/HuwRichmond/Object-Relational-Mapping-ORM-E-Commerce-Back-End
 
-Walkthrough Video URL:
+Walkthrough Video URL: https://drive.google.com/file/d/1aVX8UOd_lkFsipsuv51jhxyrVpR0XaDQ/view
 
 Created by Huw Richmond
